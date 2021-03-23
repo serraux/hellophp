@@ -1,2 +1,2 @@
 # hellophp
-Repositorio crdaio para aprender los principios del uso del poderoso lenguaje php
+Repositorio creado para aprender los principios del uso del poderoso lenguaje php
