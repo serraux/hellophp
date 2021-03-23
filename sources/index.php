@@ -8,12 +8,10 @@
   </head>
   <body>
     <?php
-      echo "Esto es c&oacutedigo PHP"; /* Esto está escrito en PHP*/ 
+      echo "Esto es c&oacutedigo PHP "; /* Esto está escrito en PHP*/ 
     ?>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit
-      voluptatibus vel, et nihil quisquam ratione expedita. Omnis iste, quidem
-      delectus unde sit eligendi deleniti quis! A nobis libero ea unde?
+     esto es código html
     </p>
   </body>
 </html>
